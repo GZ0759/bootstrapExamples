@@ -31,3 +31,12 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+.bg-color {
+  background-color: #d2b116;
+}
+
+.title {
+  padding: 20px 0;
+  color: #fbb957;
+}
