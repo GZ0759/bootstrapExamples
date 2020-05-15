@@ -33,10 +33,27 @@ footer p {
 }
 
 .bg-color {
-  background-color: #d2b116;
+  background-color: #bc658d;
 }
 
 .title {
   padding: 20px 0;
-  color: #fbb957;
+  color: #f5a7a7;
+}
+
+.section-1 {
+  background-color: #f9d89c;
+}
+.section-2 {
+  background-color: #82c4c3;
+}
+.section-3 {
+  background-color: #f5a7a7;
+}
+
+h1 {
+  line-height: 45rpx;
+}
+.header-img {
+  width: 45px;
 }
